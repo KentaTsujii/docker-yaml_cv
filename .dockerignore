@@ -1,3 +1,5 @@
 *
 !Gemfile
-
+!yaml_cv/*
+!yaml_cv_origin/*
+!fonts

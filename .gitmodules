@@ -1,0 +1,6 @@
+[submodule "docker-yaml_cv"]
+	path = docker-yaml_cv
+	url = https://github.com/ikasam/docker-yaml_cv.git
+[submodule "yaml_cv"]
+	path = yaml_cv
+	url = https://github.com/kaityo256/yaml_cv.git

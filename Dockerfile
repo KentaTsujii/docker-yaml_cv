@@ -4,3 +4,6 @@ RUN apk upgrade --no-cache \
 WORKDIR /usr/src/app
 COPY Gemfile /usr/src/app
 RUN bundle install
+COPY yaml_cv_origin/ /usr/src/app/
+COPY ./fonts/ /usr/src/app/fonts/
+
